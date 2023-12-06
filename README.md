@@ -1,2 +1,2 @@
-# -onsoleBot
+# ConsoleBot
 Hyperskill project
